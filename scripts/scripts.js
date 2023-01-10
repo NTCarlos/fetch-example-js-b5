@@ -1,3 +1,4 @@
+// main function that handles the logic
 async function loadFact() {
   // Get the element from the DOM
   let element = document.getElementById('catFact')
